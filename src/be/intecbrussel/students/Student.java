@@ -21,6 +21,8 @@ public class Student {
         return name;
     }
 
+
+
     public ReportCard getReportCard() {
         return reportCard;
     }
