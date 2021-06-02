@@ -35,6 +35,8 @@ public class ReportCard {
 
         double sum =0;
 
+
+
         for (int i = 0; i < numberOfGrades; i++) {
             sum+= grades[i];
         }
